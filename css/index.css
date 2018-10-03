@@ -1,0 +1,27 @@
+body {
+    background-image: url("../images/bg_Desert.jpg");
+    color:white;
+    font-family: monospace, Arial, sans-serif;
+}
+.calcButton {
+    position: fixed;
+    top: 10px;
+    right: 55px;
+    font-size: 16px;
+    text-transform: uppercase;
+    padding: 5px 10px;
+    margin: 5px;
+    padding: 5px;
+    background: linear-gradient(to right, #ef9b26 0%,#eaba7e 51%,#ef9b26 100%);
+    font-weight: bold;
+    color: #fff;
+}
+.button {
+  padding: 5px 10px;
+  margin: 5px;
+  padding: 5px;
+  width: 100px;
+  background: linear-gradient(to right, #ef9b26 0%,#eaba7e 51%,#ef9b26 100%);
+  font-weight: bold;
+  color: #fff;
+}
