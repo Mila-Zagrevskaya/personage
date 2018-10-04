@@ -26,3 +26,5 @@ this is my homework №13
 ⚠️ При регистрации указывать ссылку на созданный репозиторий
 
 Регистрация ссылок
+
+https://mila-zagrevskaya.github.io/personage/
